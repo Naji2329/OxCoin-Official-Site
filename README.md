@@ -1,4 +1,4 @@
-# DevConnector 2.0
+# OXCoin-Official-Site
 
 > Social network for developers
 
